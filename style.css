@@ -1,0 +1,15 @@
+.clean-quote {
+    background-color: #f7f9fc; /* Bardzo jasny, nowoczesny niebiesko-szary kolor tła */
+    border-left: 5px solid #0078d4; /* Niebieski pasek akcentujący, typowy dla Windows/Azure */
+    border-radius: 4px; /* Lekko zaokrąglone rogi */
+    padding: 1.5rem; /* Przestrzeń wewnętrzna wokół tekstu */
+    margin: 2rem 0; /* Odstęp od otaczającego tekstu */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05); /* Bardzo subtelny cień dla głębi */
+    font-family: system-ui, -apple-system, sans-serif; /* Czysty, systemowy font bezszeryfowy */
+}
+
+.clean-quote p {
+    margin: 0; /* Usuwa domyślny margines paragrafu wewnątrz pudełka */
+    line-height: 1.6; /* Poprawia czytelność */
+    color: #111; /* Ciemny, czytelny tekst */
+}
